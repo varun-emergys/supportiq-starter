@@ -1,0 +1,3 @@
+# Starter ships using only the Python standard library.
+# pytest is needed once Exercise A5 generates the test suite.
+pytest>=8.0

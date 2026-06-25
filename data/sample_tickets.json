@@ -1,0 +1,92 @@
+[
+  {
+    "id": "T-1001",
+    "subject": "VPN keeps disconnecting",
+    "body": "VPN keeps disconnecting every 10 minutes on my laptop.",
+    "submitted_by": "j.okafor@example.com"
+  },
+  {
+    "id": "T-1002",
+    "subject": "Cannot log in after password reset",
+    "body": "I reset my password this morning and now SSO rejects it on every app. Completely locked out.",
+    "submitted_by": "m.lindqvist@example.com"
+  },
+  {
+    "id": "T-1003",
+    "subject": "Laptop won't charge",
+    "body": "My laptop stopped charging through the dock. Tried two cables, no light on the charger.",
+    "submitted_by": "p.nair@example.com"
+  },
+  {
+    "id": "T-1004",
+    "subject": "Outlook not syncing",
+    "body": "Email stopped syncing on the desktop app since yesterday. Webmail works fine.",
+    "submitted_by": "r.alvarez@example.com"
+  },
+  {
+    "id": "T-1005",
+    "subject": "Need Photoshop installed",
+    "body": "Requesting Adobe Photoshop for the design team. Not urgent, sometime this week is fine.",
+    "submitted_by": "s.kim@example.com"
+  },
+  {
+    "id": "T-1006",
+    "subject": "Whole office Wi-Fi down",
+    "body": "Nobody on the 3rd floor can connect to Wi-Fi. About 40 people blocked, demo in an hour.",
+    "submitted_by": "facilities@example.com"
+  },
+  {
+    "id": "T-1007",
+    "subject": "Spam getting through filter",
+    "body": "Getting a lot of phishing emails past the spam filter this week. Annoying but manageable.",
+    "submitted_by": "d.osei@example.com"
+  },
+  {
+    "id": "T-1008",
+    "subject": "Second monitor flickers",
+    "body": "External display flickers intermittently. Still usable, just distracting.",
+    "submitted_by": "t.murphy@example.com"
+  },
+  {
+    "id": "T-1009",
+    "subject": "App crashes on launch",
+    "body": "The internal expenses app crashes immediately on launch after the latest update. Can't file expenses.",
+    "submitted_by": "l.fernandes@example.com"
+  },
+  {
+    "id": "T-1010",
+    "subject": "Account locked, suspicious login",
+    "body": "Got an alert about a login from another country and now my account is locked. Worried it's compromised.",
+    "submitted_by": "h.tanaka@example.com"
+  },
+  {
+    "id": "T-1011",
+    "subject": "Request access to shared drive",
+    "body": "Please add me to the Finance shared drive. Manager approved. No rush.",
+    "submitted_by": "g.bauer@example.com"
+  },
+  {
+    "id": "T-1012",
+    "subject": "Keyboard keys not working",
+    "body": "Several keys on my laptop keyboard stopped responding. Using an external one for now.",
+    "submitted_by": "n.costa@example.com"
+  },
+  {
+    "id": "T-1013",
+    "subject": "Calendar invites not appearing",
+    "body": "Meeting invites sent to me don't show up in my calendar. Missed two meetings already today.",
+    "submitted_by": "a.haddad@example.com"
+  },
+  {
+    "id": "T-1014",
+    "subject": "Printer offline",
+    "body": "The shared printer on 2nd floor shows offline. Low priority, we can use 4th floor.",
+    "submitted_by": "office@example.com"
+  },
+  {
+    "id": "T-1015",
+    "subject": "Production database unreachable",
+    "body": "The customer-facing app is down — database connections are all timing out. Customers affected right now.",
+    "submitted_by": "oncall@example.com"
+  }
+]
